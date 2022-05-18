@@ -1,12 +1,18 @@
-#Exercício Final
+* Exercício Final
 
-##Qual foi o primeiro domínio criado?
-[O Symbolics.com](https://canaltech.com.br/internet/Ha-28-anos-primeiro-dominio-da-internet-era-cadastrado/#:~:text=Na%20última%20sexta-feira%20(15,15%20de%20março%20de%201985.)
+1 - Qual foi o primeiro domínio criado?
+O Symbolics.com
 
-##E o primeiro Blog?
-[Open Diary](https://rockcontent.com/br/blog/historia-dos-blogs/)
+Referência 
+https://canaltech.com.br/internet/Ha-28-anos-primeiro-dominio-da-internet-era-cadastrado/#:~:text=Na%20última%20sexta-feira%20(15,15%20de%20março%20de%201985.
 
-##Qual foi a primeira compra feita pela Internet?
+2 - E o primeiro Blog?
+Open Diary
+
+Referência: 
+https://rockcontent.com/br/blog/historia-dos-blogs/
+
+3 - Qual foi a primeira compra feita pela Internet?
 Segundo o site o primeiro registro de uma trasação online, foi com a ARPANET.
 Entre 1971 e 1972, estudades de Stanford, na costa oeste dos Estados Unidos, teriam
 usado a rede para entrar em contato com estudantes do MIT, na costa leste e compraram maconha.
@@ -22,5 +28,11 @@ e, geralmente, levar o crédito, o vídeo afirma que a primeira compra foi feita
 O produto comprado foi um CD do artista inglês Sting, "Ten Summoner's Tales". O comprador foi um amigo de Kohn na Filadélfia, 
 que pagou US$ 12,48 mais o frete com seu cartão de crédito em uma transação encriptada.
 
-##Qual o site mais antigos em atividade?
-[O Symbolics.com](https://canaltech.com.br/internet/quais-sao-os-dominios-mais-antigos-do-mundo-e-do-brasil-181571/) é o site mais antigo em atividade na Web.
+Referência:
+https://epocanegocios.globo.com/Tecnologia/noticia/2015/11/e-o-primeiro-produto-comprado-pela-internet-foi.html
+
+4 - Qual o site mais antigos em atividade?
+O Symbolics.com, é o site mais antigo em atividade na Web.
+
+Referência:
+https://canaltech.com.br/internet/quais-sao-os-dominios-mais-antigos-do-mundo-e-do-brasil-181571 
