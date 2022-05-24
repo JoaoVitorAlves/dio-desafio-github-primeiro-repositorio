@@ -1,0 +1,29 @@
+Semâtinca
+
+<section> = Tag responsavel por uma seção generica de conteúdo.
+
+<header> = É o cabeçalho de uma página ou de parte dela. 
+
+<article> = Conteúdo que queira colocar de relevancia na página.
+
+<aside> = Conteúdo principal de uma página. 
+
+<footer> = Rodapé da página. 
+
+<h1> - <h6>= Represeta os títulos de uma página. 
+
+
+TEXTOS E LINKS
+
+<h1>Título da página</h1>
+
+<p>Conteúdo do artigo</p>
+
+
+<a>Link</a>
+
+<a href="https://www.linkedin.com/in/joão-vitor-alves-de-oliveira-47233b190">LinkedIn</a>
+
+<a href="jv.joaovitor.oliveira@gmail.com">E-mail</a>
+
+<a target="_blank">link</a>
