@@ -1,5 +1,11 @@
++ Aulas do Curso SQL Completo 2019 [Iniciantes] + Desafios + Muita Prática
+
++ DEV APRENDER CANAL YOUTUBE +
+
+https://www.youtube.com/watch?v=rX2I7OjLqWE&t=4810s
+
 /*
-	distinct: Para listar valores diferentes.
+	Distinct: Para listar valores diferentes.
 */
 
 SELECT distinct FirstName FROM person.Person
