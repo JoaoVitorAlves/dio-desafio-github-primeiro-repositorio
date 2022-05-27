@@ -1,0 +1,136 @@
+/*padding: top, right, bottom , left 
+  Quando o padding tem três lados iguais com um diferente utiliza ex:
+
+  .post{
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 0;
+
+    background-color: green;
+    background-image: url("bg.png");
+    background-position: top;
+
+    BORDER: Largura, estilo e cor.
+    BORDER-RADIUS
+    ex:
+    border: 3px solid blue;
+    border-top: 2px dotted green;
+    border-right: 3px dashed pink;
+
+    border-top: 2px dotted green;
+    border-right: 4px dashed pink;
+    border-bottom: 1px solid purple;
+    border-left: 4px dotted cyan;
+
+    border-top-width: 3px;
+    border-top-color: blue;
+    border-top-style: solid;
+    
+
+    font-family: verdana;
+    font-family: verdana, Arial;
+    font-style: italic, normal;
+    
+    font-weight: normal;
+    font-weight: bold;  
+
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+   
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+
+    ul {
+        list-style-type: square;
+    }
+    ol{
+        list-style-type: upper-roman;
+    }
+    ul {
+        list-style-type: "\1F44D";
+    }
+    ul {
+        list-style-type: url("rocket.png");
+    }
+}
+width:  largura
+height: altura
+
+Max-width: largura maxima
+Max-height: altura maxima
+
+Margin: Alinha
+
+Text align: pode centraliza move o texto.
+*/
+body {
+    background: #ccc;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: #505050;
+}
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#title,
+.subtitle,
+.post_title {
+    color: #505050;
+}
+
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+
+.post_image {
+    margin-bottom: 15px;
+    width: 100%;
+
+}
+
+.photo {
+    border: 1px solid #505050;
+    border-radius: 50px;
+
+}
+
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
